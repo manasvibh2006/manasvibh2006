@@ -1,11 +1,5 @@
 <h1 align="left">Hey 👋 What's up?</h1>
-
-###
-
 <p align="left">My name is Manasvi and I'm a CSE undergrad , from Pune</p>
-
-###
-
 <h2 align="left">About me</h2>
 
 Passionate tech enthusiast with keen interest in modern web technologies, including HTML, CSS, JavaScript, React.js, Express.js, and MongoDB . Discovered coding in high school which really sparked interest in technology. Expanded my knowledge of data structures along with skills in web development. Focused on building dynamic scalable applications and looking forward to contributing innovative solutions to organizations while expanding technical and problem-solving abilities.
