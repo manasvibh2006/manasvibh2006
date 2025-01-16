@@ -1,21 +1,48 @@
-<h1 align="left">Hey 👋 What's up?</h1>
-<p align="left">My name is Manasvi and I'm a CSE undergrad , from Pune</p>
-<h2 align="left">About me</h2>
+<h2 align="left">Hi 👋! My name is Manasvi Bhaskar, and I am a passionate software learner based in Pune, Maharashtra.</h2>
 
-Passionate tech enthusiast with keen interest in modern web technologies, including HTML, CSS, JavaScript, React.js, Express.js, and MongoDB . Discovered coding in high school which really sparked interest in technology. Expanded my knowledge of data structures along with skills in web development. Focused on building dynamic scalable applications and looking forward to contributing innovative solutions to organizations while expanding technical and problem-solving abilities.
+###
 
-<h2 align="left">💡 Skills & Technologies</h2>
-<p>Programming Languages: Python, JavaScript, TypeScript, SQL</p>
-<p>Frontend Development: React.js, Next.js, Tailwind CSS, HTML/CSS</p>
-<p>Backend Development: Node.js, Express.js, Flask</p>
-<p>Database: MongoDB,MySQL</p>
-<p>Other Tools: Git/GitHub, Figma, Redux</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-<h2 align = "left">🌱 What I'm Learning</h2>
-<p>Expanding my knowledge of Data Structures and Algorithms (DSA) to enhance my problem-solving skills.</p>
-<p></p>Exploring and deepening my understanding of the technologies and tools mentioned above.</p>
+###
 
-<h2>📫 Connect with Me </h2>
-<p>LinkedIn : https://www.linkedin.com/in/manasvi-bhaskar-640b71286/</p>
-<p>Email : manasvibhaskar18@gmail.com</p>
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+</div>
+
+###
+
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###
