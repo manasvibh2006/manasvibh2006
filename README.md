@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png" width="100%"/>
 </div>
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Manasvhi+Bhaskar!;" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Manasvi+Bhaskar!;" />
 </h1>
 <h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=A+passionate+frontend+developer;Always+learning+new+things;⚡+Quick+learner;🎯+DSA+Enthusiast" />
